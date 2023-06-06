@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 101,
+        "img": "https://i.ibb.co/JQKD0y0/pizza-bg.jpg",
+        "name": "Pizza",
+        "details": "Lettuce, Eggs, Parmesan Cheese, Chicken Breast Fillets."
+    },
+    {
+        "_id": 102,
+        "img": "https://i.ibb.co/gwBjQ4j/salad-bg.jpg",
+        "name": "Caeser Salad",
+        "details": "Lettuce, Eggs, Parmesan Cheese, Chicken Breast Fillets."
+    },
+    {
+        "_id": 103,
+        "img": "https://i.ibb.co/WxC5bHb/soup-bg.jpg",
+        "name": "Soup",
+        "details": "Lettuce, Eggs, Parmesan Cheese, Chicken Breast Fillets."
+    }
+]
